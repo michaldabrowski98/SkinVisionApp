@@ -51,7 +51,7 @@ export default function MainScreen() {
       <View style={styles.container}>
         <View style={styles.headerContainer}>
           <Ionicons name="camera-outline" size={100} color="#808080" style={styles.headerImage} />
-          <Text style={styles.headerText}>Skin Vision PRO</Text>
+          <Text style={styles.headerText}>Skin Med PRO</Text>
         </View>
         <View style={styles.buttonContainer}>
           <TouchableOpacity style={styles.button} onPress={takePhoto}>
