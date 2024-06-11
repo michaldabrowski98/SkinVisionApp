@@ -31,6 +31,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "apiUrl": "https://3d02-109-243-0-164.ngrok-free.app"
     }
   }
 }
