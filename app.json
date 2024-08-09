@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mdabrowski98.SkinVisionApp"
     },
     "web": {
       "bundler": "metro",
@@ -33,7 +34,13 @@
       "typedRoutes": true
     },
     "extra": {
-      "apiUrl": "https://3d02-109-243-0-164.ngrok-free.app"
+      "apiUrl": "https://skinlesionapppro.azurewebsites.net",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "6fad2951-30f1-4d50-9619-5bad5e1c5bd3"
+      }
     }
   }
 }

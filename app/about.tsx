@@ -21,7 +21,7 @@ const AboutScreen = () => {
         },
         {
             title: 'O aplikacji',
-            content: 'Ta aplikacja powstała jako część pracy licencjackiej.',
+            content: 'Ta aplikacja powstała jako część pracy licencjackiej. Autor: Michał Dąbrowski',
         },
     ];
 
